@@ -345,21 +345,21 @@
                             <div class="col-lg col-md-4 col-6 md-mb30">
                                 <div class="item d-flex align-items-center justify-content-center">
                                     <div class="img">
-                                        <img src="assets/imgs/clients/1.svg" alt="">
+                                        <img src="assets/imgs/clients/6.svg" alt="">
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg col-md-4 col-6 md-mb30">
                                 <div class="item d-flex align-items-center justify-content-center">
                                     <div class="img">
-                                        <img src="assets/imgs/clients/2.svg" alt="">
+                                        <img src="assets/imgs/clients/7.svg" alt="">
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg col-md-4 col-6 md-mb30">
                                 <div class="item d-flex align-items-center justify-content-center">
                                     <div class="img">
-                                        <img src="assets/imgs/clients/3.svg" alt="">
+                                        <img src="assets/imgs/clients/8.svg" alt="">
                                     </div>
                                 </div>
                             </div>
