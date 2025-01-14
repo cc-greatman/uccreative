@@ -157,42 +157,27 @@
                         <div class="slide-har st1">
                             <div class="box">
                                 <div class="item">
-                                    <h5>Top-notch Experts</h5>
-                                </div>
-                                <div class="item">
-                                    <h5>Dedicated Support 24/7</h5>
+                                    <h5>Top-notch Designs</h5>
                                 </div>
                                 <div class="item">
                                     <h5>Flexible Pricing</h5>
                                 </div>
                                 <div class="item">
-                                    <h5>Top-notch Experts</h5>
-                                </div>
-                                <div class="item">
                                     <h5>AI-Driven Solutions</h5>
-                                </div>
-                                <div class="item">
-                                    <h5>Flexiable Price</h5>
                                 </div>
                             </div>
                             <div class="box">
                                 <div class="item">
-                                    <h5>Top-notch Experts</h5>
-                                </div>
-                                <div class="item">
-                                    <h5>Dedicated Support 24/7</h5>
+                                    <h5>Top-notch Artworks</h5>
                                 </div>
                                 <div class="item">
                                     <h5>Flexible Pricing</h5>
                                 </div>
                                 <div class="item">
-                                    <h5>Top-notch Experts</h5>
+                                    <h5>Top-notch Expert</h5>
                                 </div>
                                 <div class="item">
-                                    <h5>AI-Driven Solutions</h5>
-                                </div>
-                                <div class="item">
-                                    <h5>Flexiable Price</h5>
+                                    <h5>Creativity At Disposal</h5>
                                 </div>
                             </div>
                         </div>
@@ -201,42 +186,27 @@
                         <div class="slide-har st2">
                             <div class="box">
                                 <div class="item">
-                                    <h5>Top-notch Experts</h5>
-                                </div>
-                                <div class="item">
-                                    <h5>Dedicated Support 24/7</h5>
+                                    <h5>Top-notch Designs</h5>
                                 </div>
                                 <div class="item">
                                     <h5>Flexible Pricing</h5>
                                 </div>
                                 <div class="item">
-                                    <h5>Top-notch Experts</h5>
-                                </div>
-                                <div class="item">
                                     <h5>AI-Driven Solutions</h5>
-                                </div>
-                                <div class="item">
-                                    <h5>Flexiable Price</h5>
                                 </div>
                             </div>
                             <div class="box">
                                 <div class="item">
-                                    <h5>Top-notch Experts</h5>
-                                </div>
-                                <div class="item">
-                                    <h5>Dedicated Support 24/7</h5>
+                                    <h5>Top-notch Artworks</h5>
                                 </div>
                                 <div class="item">
                                     <h5>Flexible Pricing</h5>
                                 </div>
                                 <div class="item">
-                                    <h5>Top-notch Experts</h5>
+                                    <h5>Top-notch Expert</h5>
                                 </div>
                                 <div class="item">
-                                    <h5>AI-Driven Solutions</h5>
-                                </div>
-                                <div class="item">
-                                    <h5>Flexiable Price</h5>
+                                    <h5>Creativity At Disposal</h5>
                                 </div>
                             </div>
                         </div>
@@ -269,7 +239,7 @@
                             <div class="swiper-container">
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide">
-                                        <div class="bg-img" data-background="assets/imgs/works/1.jpg">
+                                        <div class="bg-img" data-background="{{ asset("assets/imgs/works/1.jpg") }}">
                                             <a href="https://uithemez.com/i/hubfolio_HTML/inner_pages/project-details.html"></a>
                                         </div>
                                     </div>
