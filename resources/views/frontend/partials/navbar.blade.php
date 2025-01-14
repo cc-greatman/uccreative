@@ -5,7 +5,7 @@
 
         <!-- Logo -->
         <a class="logo" href="{{ route('index.view') }}">
-            <img src="{{ asset("assets/imgs/uccreative.png") }}" width="100px" alt="logo">
+            <img src="{{ asset("assets/imgs/uccreative.png") }}" width="50px" height="50px" alt="logo">
         </a>
 
         <!-- navbar links -->
@@ -172,7 +172,7 @@
         <div class="cont-info valign">
             <div class="text-center full-width">
                 <div class="logo">
-                    <img src="{{ asset("assets/imgs/uccreative.png") }}" width="100px" alt="">
+                    <img src="{{ asset("assets/imgs/uccreative.png") }}" width="50px" height="50px" alt="">
                 </div>
                 <div class="social-icon mt-40">
                     <a href="#"> <i class="fab fa-facebook-f"></i> </a>
