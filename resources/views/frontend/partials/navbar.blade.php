@@ -4,8 +4,8 @@
     <div class="container">
 
         <!-- Logo -->
-        <a class="logo" href="{{ route('index.view') }}">
-            <img src="{{ asset("assets/imgs/uccreative.png") }}" style="width:50px !important; height:50px !important;" alt="logo">
+        <a href="{{ route('index.view') }}">
+            <img src="{{ asset("assets/imgs/uccreative.png") }}" style="width:70px !important; height:30px !important;" alt="logo">
         </a>
 
         <!-- navbar links -->
@@ -172,7 +172,7 @@
         <div class="cont-info valign">
             <div class="text-center full-width">
                 <div class="logo">
-                    <img src="{{ asset("assets/imgs/uccreative.png") }}" width="50px" height="50px" alt="">
+                    <img src="{{ asset("assets/imgs/uccreative.png") }}" style="width:70px !important; height:30px !important;" alt="logo">
                 </div>
                 <div class="social-icon mt-40">
                     <a href="#"> <i class="fab fa-facebook-f"></i> </a>
