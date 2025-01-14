@@ -581,18 +581,18 @@
                 <!-- ==================== Start about ==================== -->
 
                 <section class="about-ma">
-                    <div class="bg-img md-hide" data-background="assets/imgs/about.jpg"></div>
+                    <div class="bg-img md-hide" data-background="{{ asset("assets/imgs/about.png") }}"></div>
                     <div class="content">
                         <div class="item sec-head mb-100">
                             <h6 class="sub-head sub-color mb-20">Our Experience</h6>
-                            <h3>We help creative agencies, designers, and other creative people to connect with potential clients.</h3>
+                            <h3>With years of expertise in design, branding, and development, we bring a deep understanding of what it takes to create impactful, results-driven solutions for your brand.</h3>
                             <div class="botm d-flex align-items-end pt-50 mt-100 bord-thin-top-light">
                                 <h2>12</h2>
                                 <h6 class="ml-auto">Years of <br> experience</h6>
                             </div>
                         </div>
                         <div class="item sec-head mb-100">
-                            <h6 class="sub-head sub-color mb-20">Our Successfully</h6>
+                            <h6 class="sub-head sub-color mb-20">Behind the Scenes</h6>
                             <h3>We are a passionate team of designers and developers.</h3>
                             <div class="botm d-flex align-items-end pt-50 mt-100 bord-thin-top-light">
                                 <h2>64</h2>
