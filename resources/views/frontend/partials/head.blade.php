@@ -35,7 +35,7 @@
     <!-- ==================== Start Loading ==================== -->
 
     <div class="loader-wrap">
-        <img src="{{ asset("assets/imgs/uccreative.svg") }}" alt="">
+        <img src="{{ asset("assets/imgs/uccreative.png") }}" alt="">
 
         <div class="loader-wrap-heading">
             <div class="load-text">
