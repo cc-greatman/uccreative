@@ -50,10 +50,10 @@
                         <div class="sec-head">
                             <div class="row">
                                 <div class="col-lg-5 sub-head md-mb15">
-                                    <h6 class="text-u fz-14 ls1">Cooking Tough Design since 2007</h6>
+                                    <h6 class="text-u fz-14 ls1">Cooking Tough Designs since 2007</h6>
                                 </div>
                                 <div class="col-lg-7">
-                                    <h3><span class="sub-color">Welcome to UCCreative</span>— where simplicity meets innovation in every design. I specialize in creating visually stunning solutions that elevate your brand with a perfect balance of creativity and clarity. Let’s craft designs that speak for you in this fast-moving world.</h3>
+                                    <h3><span class="sub-color">Welcome to UCCreative </span>— I specialize in crafting visuals that seamlessly blend simplicity with innovation. From sleek logos and branding to dynamic digital designs, my work is driven by a passion for clean aesthetics and creative precision.</h3>
                                 </div>
                             </div>
                         </div>
@@ -89,7 +89,7 @@
                             </div>
                             <div class="text ml-auto">
                                 <div class="d-flex align-items-center">
-                                    <p>Brand Identity, Stragegy & Consult, <br> Position, Rebrand</p>
+                                    <p>We design distinct brand identities that leave a lasting impression and ensure your brand stands out</p>
                                     <div>
                                         <div class="icon invert">
                                             <img src="https://uithemez.com/i/hubfolio_HTML/common/imgs/icons/crown-solid.svg" alt="">
@@ -104,7 +104,7 @@
                             </div>
                             <div class="text ml-auto">
                                 <div class="d-flex align-items-center">
-                                    <p>Brand Identity, Stragegy & Consult, <br> Position, Rebrand</p>
+                                    <p>We craft innovative and visually engaging designs that effectively communicate your message and elevate your brand</p>
                                     <div>
                                         <div class="icon invert">
                                             <img src="https://uithemez.com/i/hubfolio_HTML/common/imgs/icons/bezier-curve-solid.svg" alt="">
@@ -119,7 +119,7 @@
                             </div>
                             <div class="text ml-auto">
                                 <div class="d-flex align-items-center">
-                                    <p>Brand Identity, Stragegy & Consult, <br> Position, Rebrand</p>
+                                    <p>We create clean, efficient code for seamless digital experiences that boost your brand's functionality.</p>
                                     <div>
                                         <div class="icon invert">
                                             <img src="https://uithemez.com/i/hubfolio_HTML/common/imgs/icons/code-solid.svg" alt="">
@@ -130,11 +130,11 @@
                         </div>
                         <div class="item d-flex align-items-center">
                             <div class="title">
-                                <h2>Growth</h2>
+                                <h2>Art</h2>
                             </div>
                             <div class="text ml-auto">
                                 <div class="d-flex align-items-center">
-                                    <p>Brand Identity, Stragegy & Consult, <br> Position, Rebrand</p>
+                                    <p>We create original, visually striking artwork that tells your brand’s story and engages your audience.</p>
                                     <div>
                                         <div class="icon invert">
                                             <img src="https://uithemez.com/i/hubfolio_HTML/common/imgs/icons/chart-line-solid.svg" alt="">
