@@ -172,7 +172,7 @@
         <div class="cont-info valign">
             <div class="text-center full-width">
                 <div class="logo">
-                    <img src="{{ asset("assets/imgs/uccreative.svg") }}" alt="">
+                    <img src="{{ asset("assets/imgs/uccreative.svg") }}" width="100px" alt="">
                 </div>
                 <div class="social-icon mt-40">
                     <a href="#"> <i class="fab fa-facebook-f"></i> </a>
