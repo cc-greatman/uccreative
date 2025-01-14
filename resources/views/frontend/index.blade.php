@@ -104,7 +104,7 @@
                             </div>
                             <div class="text ml-auto">
                                 <div class="d-flex align-items-center">
-                                    <p>We craft innovative and visually engaging designs <br> that effectively communicate your message and elevate your brand</p>
+                                    <p>We craft innovative and visually engaging designs <br> that effectively communicate your message and <br> elevate your brand</p>
                                     <div>
                                         <div class="icon invert">
                                             <img src="https://uithemez.com/i/hubfolio_HTML/common/imgs/icons/bezier-curve-solid.svg" alt="">
