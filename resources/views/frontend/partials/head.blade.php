@@ -32,7 +32,7 @@
 </head>
 
 <body>
-    <!-- ==================== Start Loading ==================== -->
+    <!-- ==================== Start Loading ====================
 
     <div class="loader-wrap">
         <svg viewBox="0 0 1000 1000" preserveAspectRatio="none">
@@ -55,7 +55,7 @@
         </div>
     </div>
 
-    <!-- ==================== End Loading ==================== -->
+     ==================== End Loading ==================== -->
 
 
     <div class="cursor"></div>
