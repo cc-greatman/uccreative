@@ -15,25 +15,24 @@
                 <header class="header-ma">
                     <div class="container ontop">
                         <div class="caption d-flex">
-                            <h1>Marketing <br> & SEO studio</h1>
+                            <h1>UcCreative <br>Innovations</h1>
                             <div class="text">
-                                <p>Connecting businesses with their audiences, and individuals with their dreams. Our
-                                    path forward is one of continuous growth</p>
+                                <p>From logos and branding to digital designs, my work reflects a unique blend of creativity and precision. Let’s bring your vision to life.</p>
                             </div>
                             <div class="img sm-hide">
-                                <img src="assets/imgs/header/circle-text.svg" alt="">
-                                <img src="assets/imgs/header/union.svg" alt="" class="icon">
+                                <img src="{{ asset("assets/imgs/header/circle-text.svg") }}" alt="">
+                                <img src="{{ asset("assets/imgs/header/union.svg") }}" alt="" class="icon">
                             </div>
                         </div>
                     </div>
                     <div class="mimg fit-img">
-                        <img src="assets/imgs/header/bg1.jpg" alt="">
+                        <img src="{{ asset("assets/imgs/header/bg1.jpg") }}" alt="">
                         <div class="lg-text sm-hide"></div>
                         <svg height="0" width="0">
                             <defs>
                                 <clipPath id="svgTextPath">
                                     <text x="50" y="200" textLength="1000px" font-family="Inter" font-size="220px"
-                                        font-weight="700"> HUBFOLIO </text>
+                                        font-weight="700"> UCCREATIVE </text>
                                 </clipPath>
                             </defs>
                         </svg>
