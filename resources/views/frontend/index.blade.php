@@ -89,7 +89,7 @@
                             </div>
                             <div class="text ml-auto">
                                 <div class="d-flex align-items-center">
-                                    <p>We design distinct brand identities that leave a lasting impression and ensure your brand stands out</p>
+                                    <p>We design distinct brand identities that leave <br> a lasting impression and ensure your brand stands out</p>
                                     <div>
                                         <div class="icon invert">
                                             <img src="https://uithemez.com/i/hubfolio_HTML/common/imgs/icons/crown-solid.svg" alt="">
@@ -104,7 +104,7 @@
                             </div>
                             <div class="text ml-auto">
                                 <div class="d-flex align-items-center">
-                                    <p>We craft innovative and visually engaging designs that effectively communicate your message and elevate your brand</p>
+                                    <p>We craft innovative and visually engaging designs <br> that effectively communicate your message and elevate your brand</p>
                                     <div>
                                         <div class="icon invert">
                                             <img src="https://uithemez.com/i/hubfolio_HTML/common/imgs/icons/bezier-curve-solid.svg" alt="">
@@ -119,7 +119,7 @@
                             </div>
                             <div class="text ml-auto">
                                 <div class="d-flex align-items-center">
-                                    <p>We create clean, efficient code for seamless digital experiences that boost your brand's functionality.</p>
+                                    <p>We create clean, efficient code for seamless digital <br> experiences that boost your brand's functionality.</p>
                                     <div>
                                         <div class="icon invert">
                                             <img src="https://uithemez.com/i/hubfolio_HTML/common/imgs/icons/code-solid.svg" alt="">
@@ -134,7 +134,7 @@
                             </div>
                             <div class="text ml-auto">
                                 <div class="d-flex align-items-center">
-                                    <p>We create original, visually striking artwork that tells your brand’s story and engages your audience.</p>
+                                    <p>We create original, visually striking artwork that tells <br> your brand’s story and engages your audience.</p>
                                     <div>
                                         <div class="icon invert">
                                             <img src="https://uithemez.com/i/hubfolio_HTML/common/imgs/icons/chart-line-solid.svg" alt="">
