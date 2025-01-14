@@ -366,7 +366,7 @@
                             <div class="col-lg col-md-4 col-6 sm-mb30">
                                 <div class="item d-flex align-items-center justify-content-center">
                                     <div class="img">
-                                        <img src="assets/imgs/clients/4.svg" alt="">
+                                        <img src="assets/imgs/clients/9.svg" alt="">
                                     </div>
                                 </div>
                             </div>
