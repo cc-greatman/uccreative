@@ -35,9 +35,12 @@
     <!-- ==================== Start Loading ==================== -->
 
     <div class="loader-wrap">
-        <img src="{{ asset("assets/imgs/uccreative.png") }}" width="50px" height="50px" alt="">
+        <svg viewBox="0 0 1000 1000" preserveAspectRatio="none">
+            <path id="svg" d="M0,1005S175,995,500,995s500,5,500,5V0H0Z"></path>
+        </svg>
 
         <div class="loader-wrap-heading">
+            <img src="{{ asset("assets/imgs/uccreative.png") }}" width="50px" height="50px" alt="">
             <div class="load-text">
                 <span>U</span>
                 <span>C</span>
