@@ -5,7 +5,7 @@
 
         <!-- Logo -->
         <a class="logo" href="{{ route('index.view') }}">
-            <img src="{{ asset("assets/imgs/uccreative.png") }}" width="50px" height="50px" alt="logo">
+            <img src="{{ asset("assets/imgs/uccreative.png") }}" style="width:50px !important; height:50px !important;" alt="logo">
         </a>
 
         <!-- navbar links -->
