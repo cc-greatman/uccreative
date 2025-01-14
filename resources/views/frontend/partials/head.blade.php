@@ -40,7 +40,6 @@
         </svg>
 
         <div class="loader-wrap-heading">
-            <img src="{{ asset("assets/imgs/uccreative.png") }}" style="width:70px !important; height:30px !important;" alt="logo">
             <div class="load-text">
                 <span>U</span>
                 <span>C</span>
