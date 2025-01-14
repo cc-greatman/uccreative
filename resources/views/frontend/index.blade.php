@@ -50,12 +50,10 @@
                         <div class="sec-head">
                             <div class="row">
                                 <div class="col-lg-5 sub-head md-mb15">
-                                    <h6 class="text-u fz-14 ls1">the blend of simplicity and innovation</h6>
+                                    <h6 class="text-u fz-14 ls1">Cooking Tough Design since 2007</h6>
                                 </div>
                                 <div class="col-lg-7">
-                                    <h3><span class="sub-color">Welcome to Hubfolio</span> — your reliable and friendly
-                                        AI companion designed to make your daily life simpler and more enjoyable in this
-                                        fast-paced world.</h3>
+                                    <h3><span class="sub-color">Welcome to UCCreative</span>— where simplicity meets innovation in every design. I specialize in creating visually stunning solutions that elevate your brand with a perfect balance of creativity and clarity. Let’s craft designs that speak for you in this fast-moving world.</h3>
                                 </div>
                             </div>
                         </div>
