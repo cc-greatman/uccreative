@@ -271,17 +271,17 @@
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide">
                                         <div class="text">
-                                            <h4>Avocado Cutter</h4>
+                                            <h4>Movaex</h4>
                                             <h6>
-                                                <span>Digital Design</span>
+                                                <span>Social Media Design</span>
                                             </h6>
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="text">
-                                            <h4>The joy of music</h4>
+                                            <h4>Henry Makintosh</h4>
                                             <h6>
-                                                <span>Branding</span>
+                                                <span>E-Flier</span>
                                             </h6>
                                         </div>
                                     </div>
