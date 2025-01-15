@@ -239,12 +239,12 @@
                             <div class="swiper-container">
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide">
-                                        <div class="bg-img" data-background="{{ asset("assets/imgs/works/1.jpg") }}">
-                                            <a href="https://uithemez.com/i/hubfolio_HTML/inner_pages/project-details.html"></a>
+                                        <div class="bg-img" data-background="{{ asset("assets/imgs/works/1.png") }}">
+                                            <a href="javascript:void(0);"></a>
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
-                                        <div class="bg-img" data-background="assets/imgs/works/2.jpg">
+                                        <div class="bg-img" data-background="{{ asset("assets/imgs/works/2.png") }}">
                                             <a href="https://uithemez.com/i/hubfolio_HTML/inner_pages/project-details.html"></a>
                                         </div>
                                     </div>
