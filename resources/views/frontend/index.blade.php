@@ -249,7 +249,7 @@
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
-                                        <div class="bg-img" data-background="assets/imgs/works/3.jpg">
+                                        <div class="bg-img" data-background="assets/imgs/works/3.png">
                                             <a href="https://uithemez.com/i/hubfolio_HTML/inner_pages/project-details.html"></a>
                                         </div>
                                     </div>
