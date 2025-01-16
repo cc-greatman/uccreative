@@ -287,7 +287,7 @@
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="text">
-                                            <h4>Bank Rebranding</h4>
+                                            <h4>Rangers Intl Football Club</h4>
                                             <h6>
                                                 <span>Branding</span>
                                             </h6>
